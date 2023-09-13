@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 My name is Fitzroy Meyer-Petgrave
+- 🌱 I am a data science masters graduate and Power BI developer
+- 👯 I’m looking to collaborate on machine learning and business intelligence projects
+- 🤔 I’m looking for help with deploying ML models in production
+- 💬 Ask me about data dashboards and business develpement
+- 📫 How to reach me: fitzroypetgrave@gmail.com
+- ⚡ Outside work: Listening to music and learning to play the acoustic guitar
+- 😄 Fun fact: I'm not funny, at all
 
 <!--
 **fitzroypet/fitzroypet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
