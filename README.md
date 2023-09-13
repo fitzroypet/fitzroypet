@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 My name is Fitzroy Meyer-Petgrave
-- 🌱 I am a data science masters graduate and Power BI developer
+- 🌱 I am a recent data science masters graduate and Power BI developer
 - 👯 I’m looking to collaborate on machine learning and business intelligence projects
 - 🤔 I’m looking for help with deploying ML models in production
 - 💬 Ask me about data dashboards and business develpement
