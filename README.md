@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am a data professional with experience in business development, and a co-founder of iRecycle.world.
+- 🔭 I am a data professional with 6 years of experience in business development and a co-founder of iRecycle.world.
 
 - 📫 I enjoy leveraging data to advance innovation and sustainability for business executives and stakeholders by combining data science and business development skills to foster smarter decisions.
 
