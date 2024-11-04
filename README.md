@@ -2,7 +2,7 @@
 
 - 🔭 I'm a data scientist with experience in business development and management. I specialize in building data-driven solutions that address complex business operations and management challenges.
 
-📫 I work with Data Analytics, BI development, Machine Learning and AI, Data Engineering, Data Modeling, Data Visualization, and Business Intelligence tools to drive smarter decisions and innovative solutions.
+- 📫 I work with Data Analytics, BI development, Machine Learning and AI, Data Engineering, Data Modeling, Data Visualization, and Business Intelligence tools to drive smarter decisions and innovative solutions.
 
 - 🌱 I believe in using data to affect people, the planet, and profit positively. It's all about making things better through smart, data-driven innovation.
 
