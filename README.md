@@ -74,26 +74,9 @@ Here's a snapshot of the tools and skills I bring to the table:
 ## ✍️ Blog & Articles  
 I enjoy sharing insights about data, innovation, and my journey. Check out my latest writings:  
 
-- **[Data to Intelligence Newsletter](https://www.linkedin.com/newsletters/data-to-intelligence-7093757073217200128/)**  
+- **[Data to Intelligence Newsletter](https://www.linkedin.com/newsletters/data-to-intelligence-7093757073217200128/)**
+- **[Subscribe on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7093757073217200128)** 
 - **[Personal Blog](https://www.petgrave.io/blog)**
-- <style>
-      .libutton {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        padding: 7px;
-        text-align: center;
-        outline: none;
-        text-decoration: none !important;
-        color: #ffffff !important;
-        width: 200px;
-        height: 32px;
-        border-radius: 16px;
-        background-color: #0A66C2;
-        font-family: "SF Pro Text", Helvetica, sans-serif;
-      }
-    </style>
-<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7093757073217200128" target="_blank">Subscribe on LinkedIn</a> 
 
 ---
 
