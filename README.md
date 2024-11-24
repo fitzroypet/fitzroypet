@@ -30,7 +30,7 @@ Here's a snapshot of the tools and skills I bring to the table:
 ### 🌟 Featured Work  
 
 <details>
-<summary><strong>1. iRecycle.Digital Technology</strong> - A comprehensive solution for managing recycling operations, business partnerships, and user engagement in sustainable waste management.</summary>
+<summary><strong>1. Recycling Enterprise Database </strong> - A comprehensive SQL database solution for managing recycling operations, business partnerships, and user engagement in sustainable waste management.</summary>
 <p>
   
 ![iRecycle Digital](https://github.com/fitzroypet/recycling-database/blob/main/Screenshot%202024-10-15%20at%2009.59.11.png)
