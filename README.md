@@ -18,10 +18,10 @@ I specialize in turning data into insights and solutions that drive smarter deci
 ## 📌 What I Do  
 Here's a snapshot of the tools and skills I bring to the table:  
 - **Data Analytics**: Turning raw data into actionable insights.  
-- **Machine Learning & AI**: Developing models that solve real-world problems.  
+- **Machine Learning & AI**: Developing AI models and agents in Python that solve real-world problems.  
 - **Business Intelligence**: Designing dashboards and reporting tools using **Power BI**, **Tableau**, and more.  
-- **Data Engineering**: Ensuring data is clean, structured, and accessible.  
-- **Data Visualization**: Making insights visually appealing and easy to understand.  
+- **Data Engineering**: Ensuring data is clean, structured, and accessible with Python and SQL.  
+- **Data Visualization**: Making insights visually appealing and understandable using charts.
 
 ---
 
